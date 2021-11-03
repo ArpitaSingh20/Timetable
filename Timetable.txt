@@ -1,0 +1,113 @@
+<html>
+<title>
+Time Table
+</title>
+<body>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+<table style="width:100%" cellspacing="0">
+<tr>
+  <th rowspan="11"><h1>B.TECH. THIRD YEAR<br>SECTION : CS31<h1></th>
+  <th colspan="9"><u>BABU BANARSI DAS</u><br>NORTHERN INDIAN INSTITUTE OF TECHNOLOGY, LUCKNOW<br>COMPUTER SCIENCE AND ENGINEERING</th>
+</tr>
+<tr>
+  <th>TIME<br><br>DAY</th>
+  <th>09:00<br>-<br>10:00</th>
+  <th>10:00<br>-<br>11:00</th>
+  <th>11:00<br>-<br>12:00</th>
+  <th>12:00<br>-<br>13:00</th>
+  <th>13:00<br>-<br>14:00</th>
+  <th>14:00<br>-<br>15:00</th>
+  <th>15:00<br>-<br>16:00</th>
+  <th>16:00<br>-<br>17:00</th>
+</tr>
+<tr>
+  <th>MONDAY</th>
+  <td>L_WD/AP</td>
+  <td>L_DAA/AS</td>
+  <td>L_WD/AP</td>
+  <td>L_MLT/PY</td>
+  <th rowspan="5"><b>L<br>U<br>N<br>C<br>H</b></th>
+  <td>P_DBMS/AG</td>
+  <td>L_CD/SKV</td>
+  <td>L_DBMS/AG</td>
+</tr>
+<tr>
+  <th>TUESDAY</th>
+  <td>L_MLT/PY</td>
+  <td>L_DAA/AS</td>
+  <td>L_CI/SP</td>
+  <td>L_DBMS/AG</td>
+  <td>P_MP/PY</td>
+  <td>L_CD/SKV</td>
+  <td>L_WD/AP</td>
+</tr>
+<tr>
+  <th>WEDNESDAY</td>
+  <td>L_WD/AP</td>
+  <td>L_DAA/AS</td>
+  <td>L_MLT/PY</td>
+  <td>L_DBMS/AG</td>
+  <td>P_DAA/PY</td>
+  <td>L_DBMS/AG</td>
+  <td>L_CD/SKV</td>
+</tr>
+<tr>
+  <th>THURSDAY</td>
+  <td>L_MLT/PY</td>
+  <td>L_DAA/AS</td>
+  <td>L_DBMS/AG</td>
+  <td>L_WD/AP</td>
+  <td>L_MLT/PY</td>
+  <td>L_CD/SKV</td>
+  <td>L_CD/SKV</td>
+</tr>
+<tr>
+  <th>FRIDAY</td>
+  <td>L_MLT/PY</td>
+  <td>L_DAA/AS</td>
+  <td>L_WD/AP</td>
+  <td>L_DBMS/AG</td>
+  <td>P_CD/SKV</td>
+  <td>L_DAA/AS</td>
+  <td>L_CD/SKV</td>
+</tr>
+<tr>
+  <th colspan="9" spacing="0">
+    <div style="background-color:grey;color:white;">
+      THEORY SESSION DETAILS (LECTURES : L)
+    </div>
+  </th>
+</tr>
+<tr>
+  <td colspan="9">
+    <ol>
+      <li>L_DBMS- KCS-501: Database Management Systems : Ms. Abhilasha Gupta(AG)</li>
+      <li>L_CD- KCS-502: Complier Design : Mr. Satendra kr. Vishwkarma (SKV)</li>
+      <li>L_DAA- KCS-503: Design and Analysis of Algorithm : Dr. Anurag Shrivastava(AS)</li>
+      <li>L_WD- KCS-052: Web Designing : Mr. Atma Prakash Singh(AP)</li>
+      <li>L_MLT- KCS-055: Machine Learning Techniques : Mr. Pradumn Yadav(PY)</li>
+      <li>L_CI- KNC-501: Constitution of India, Law and Engineering : Ms. Swati Priya(SP)</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <th colspan="9" spacing="0">
+    <div style="background-color:grey;color:white;">
+      PRACTICAL SESSION DETAILS (PRACTICALS : P)
+    </div>
+  </th>
+</tr>
+<tr>
+  <td colspan="9">
+    <ol>
+      <li>P_DBMS- KCS-551: Database Management Systems Lab : Ms. Abhilasha Gupta(AG)</li>
+      <li>P_CD- KCS-552: Compiler Design Lab : Mr. Satendra kr. Vishwakarma(SKV)</li>
+      <li>P_DAA- KCS553: Design and Analysis of Algorithm : Mr. Pradumn Yadav(PY)</li>
+      <li>P_MP- KCS-554: Mini Project or Internship Assessment:  Mr. Pradumn Yadav(PY)</li>
+</table>
+</body>
+</html>
